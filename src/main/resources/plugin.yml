@@ -1,6 +1,6 @@
 main: io.github.minieyez.voucheros.VoucherosPlugin
 name: Voucheros
-version: 1.0
+version: 1.1-SNAPSHOT
 description: Give Players a Voucher that they can redeem!
 author: MiDSama
 api-version: 1.18
